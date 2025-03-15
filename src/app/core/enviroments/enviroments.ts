@@ -1,4 +1,4 @@
 export const enviroments ={
     baseUrl : 'https://ecommerce.routemisr.com',
-    url : 'http://localhost:4200'
+    url : 'https://github.com/Mayar78/freshcart.git'
 }
